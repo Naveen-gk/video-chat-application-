@@ -3,6 +3,13 @@
 # Sign-Language-to-Text-Conversion
 Deep Learning Assignment for conversion of American Sign Language to Text format
 
+#Team Details
+
+1.Aldo Sujin G
+2.Adhil Ahamed H
+3.Gogila Naveen K
+4.Jaswin J
+
 
 # Documentation Folder
 
